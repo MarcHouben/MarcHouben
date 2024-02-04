@@ -1,3 +1,6 @@
+- https://e-learning.educom.nu/
+- https://azl.dev-master.ninja/
+  
 # Kotlin Spring Boot
 
 - https://github.com/nomisRev/transitiedashboard
